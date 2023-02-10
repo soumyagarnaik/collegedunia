@@ -1,0 +1,232 @@
+.cardContainer{
+    width: 23rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    margin: .6rem;
+    border: none;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.collegeImage{
+    margin: 0;
+    width: 100%;
+    height: 40%;
+    opacity: .7;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-top: .5rem;
+}
+
+.medias{
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 30%;
+    height: 30%;
+}
+
+.imageNum, .videoNum {
+    margin: 0;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+}
+
+.icon{
+    color: white;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.collegeRating{
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    height: 30%;
+    align-items: center;
+
+}
+
+
+.school{
+    position: absolute;
+    top: 10px;
+    font-size: 1.5rem;
+    color: whitesmoke;
+}
+
+.star{
+    position: absolute;
+    top: 1.4rem;
+    font-size: 1rem;
+    left:11.5rem;
+    color: white;
+    z-index: 2;
+}
+
+.ratingText{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.text{
+    margin: 0;
+    color: white;
+    font-size: .8rem;
+}
+
+.collegeTitle{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 3rem;
+    position: absolute;
+    bottom: 14.5rem;
+    width: 100%;
+    z-index: 3;
+}
+
+.logo{
+    height: 3rem;
+    width: 3rem;
+}
+.logoContainer{
+    margin: 0;
+    width: 20%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.collegeDetails{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: flex-start;
+    width: 80%;
+}
+
+.collegeAddress{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    width: 100%;
+    padding-top: 1rem;
+}
+
+.name{
+    margin: 0;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.address{
+    margin: 0;
+    font-size: .7rem;
+    color: #b7b7b7;
+
+}
+
+.locationIcon{
+    font-size: 1rem;
+    color: #999999;
+    margin: 0;
+}
+
+.collegeFeeDetails{
+    display: flex;
+    align-items: flex-start;
+    margin: 0;
+    padding: 1.5rem .5rem;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 1rem;
+}
+
+.courseFeeContainer{
+    width: 40%;
+    margin: 0;
+}
+
+.ratingContainer{
+    width: 60%;
+    border-left: 1px solid #e1e1e1;
+    padding-left: .8rem;
+}
+
+.boldText{
+    margin: 0;
+    font-size: 1.8rem;
+    color: #FF7100;
+}
+
+.fadedText{
+    margin: 0;
+    font-size: .8rem;
+    color: #c3c3c3;
+}
+
+.rankingContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+.rankText{
+    text-align: center;
+    color: #bdbdbd;
+    font-weight: 600;
+    padding-top: 1rem;
+    margin: 0;
+}
+
+.bottomContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding:0 1rem;
+}
+
+.bottomText{
+    text-align: center;
+    color: #b3b3b3;
+    font-weight: 700;
+    padding: .5rem;
+    margin: 0;
+    font-weight: .7rem;
+}
+
+.buttonContainer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.apply{
+    background-color: #FF7100;
+    padding: 1rem 2rem;
+    border: none;
+    color: white;
+    width: 50%;
+    font-weight: 700;
+}
+
+.brouchre{
+    color: #FF7100;
+    background-color: white;
+    padding: 1rem 2rem;
+    border: none;
+    width: 50%;
+    font-weight: 700;
+}

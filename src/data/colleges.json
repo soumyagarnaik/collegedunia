@@ -1,0 +1,185 @@
+{
+    "colleges":[
+        {
+            "id":1,
+            "name":"IIT,Delhi",
+            "address": " Shaheed Jeet Singh Marg, New Delhi - 110016",
+            "nirf_rank":2,
+            "rating":8.8,
+            "user_review":316,
+            "fees":"30000",
+            "collegedunia_Rating":7.5,
+            "image_url":"/images/iitDelhi.jpg",
+            "logo_url":"/images/iitdelhilogo.png"
+        },
+        {
+            "id":2,
+            "name":"IIT,Kanpur",
+            "address": "Kalyanpur ; Kanpur -208 016",
+            "nirf_rank":4,
+            "rating":8.9,
+            "user_review":219,
+            "fees":"40000",
+            "collegedunia_Rating":8,
+            "image_url":"/images/iitkanpur.jpg",
+            "logo_url":"/images/iitkanpurlogo.png"
+        },
+        {
+            "id":3,
+            "name":"IIT,Madras",
+            "address": "Chennai, Tamil Nadu 600036",
+            "nirf_rank":1,
+            "rating":8.2,
+            "user_review":678,
+            "fees":"35000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iitmadras.jpg",
+            "logo_url":"/images/iitmadraslogo.png"
+        },
+        {
+            "id":4,
+            "name":"IIT,Bombay",
+            "address": " Main Gate Rd,IIT Area,Powai, Mumbai 400076",
+            "nirf_rank":3,
+            "rating":8.3,
+            "user_review":502,
+            "fees":"25000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iitbombay.jpg",
+            "logo_url":"/images/iitbombaylogo.png"
+        },
+        {
+            "id":5,
+            "name":"IIT,Kharagpur",
+            "address": "Kharagpur, West Bengal 721302",
+            "nirf_rank":5,
+            "rating":8.5,
+            "user_review":705,
+            "fees":"30000",
+            "collegedunia_Rating":7.9,
+            "image_url":"/images/iitkhragpur.jfif",
+            "logo_url":"/images/iitkhrgpurglogo.png"
+        },
+        {
+            "id":6,
+            "name":"IIT,Rorkee",
+            "address": "Haridwar Highway, Roorkee, Uttarakhand 247667",
+            "nirf_rank":6,
+            "rating":8.9,
+            "user_review":505,
+            "fees":"39000",
+            "collegedunia_Rating":7.1,
+            "image_url":"/images/iitrorkee.jpg",
+            "logo_url":"/images/rorkeelogo.png"
+        },
+        {
+            "id":7,
+            "name":"IIT,Guwahati",
+            "address": "Amingaon, North Guwahati, Guwahati, Assam 781039",
+            "nirf_rank":7,
+            "rating":7.8,
+            "user_review":302,
+            "fees":"35000",
+            "collegedunia_Rating":6.5,
+            "image_url":"/images/iituwahati.jpg",
+            "logo_url":"/images/guwahatilogo.png"
+        },
+        {
+            "id":8,
+            "name":"IIT,Hyderabad",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"42000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":9,
+            "name":"IIT,Hyderabad",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"42000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":10,
+            "name":"IIT,Hyderabad",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"42000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":11,
+            "name":"IIT,Hyderabad",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"42000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":12,
+            "name":"IIT,Hyderabad",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"42000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":13,
+            "name":"NIT,Rourkela",
+            "address": " Odisha 502285",
+            "nirf_rank":9,
+            "rating":8.3,
+            "user_review":372,
+            "fees":"48000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":14,
+            "name":"IIT,Banglore",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"42000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        },
+        {
+            "id":15,
+            "name":"IIT,Bhubaneswar",
+            "address": "IITH Road, Near NH-65, Sangareddy, Kandi, Telangana 502285",
+            "nirf_rank":9,
+            "rating":8.2,
+            "user_review":372,
+            "fees":"20000",
+            "collegedunia_Rating":8.5,
+            "image_url":"/images/iithyd.jpg",
+            "logo_url":"/images/iithydlogo.png"
+        }
+        
+    ]
+}

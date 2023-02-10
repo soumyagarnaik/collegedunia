@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    margin: 0;
+    height: 5rem;
+    width: 50rem;
+}
+
+.searchArea{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.search{
+    padding: .8rem 2rem;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 20rem;
+    position: relative;
+}
+
+.searchIcon{
+    font-size: 1.5rem;
+    color: #b7b7b7;
+    font-weight: 100;
+    position: absolute;
+    left: 36rem;
+}
+
+.sortArea{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 11rem;
+}
+
+.option{
+    font-size: 1rem;
+}
