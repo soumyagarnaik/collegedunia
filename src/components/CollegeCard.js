@@ -63,8 +63,8 @@ const CollegeCard = ({collegedata}) => {
             <h5  className={styles.bottomText}>COURSE & FEES</h5 >
         </div>
         <div className={styles.buttonContainer}>
-            <button className={styles.apply}><MdOutlineEditNote /> APPLY NOW</button>
-            <button className={styles.brouchre}><BsDownload/>BROCHURE</button>
+            <button className={styles.apply}><MdOutlineEditNote className={styles.btnIcon}/> APPLY NOW</button>
+            <button className={styles.brouchre}><BsDownload  className={styles.btnIcon}/>BROCHURE</button>
         </div>
     </div>
   )

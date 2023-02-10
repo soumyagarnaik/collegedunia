@@ -230,3 +230,9 @@
     width: 50%;
     font-weight: 700;
 }
+
+.btnIcon{
+    font-size: 1.2rem;
+    margin-right: .5rem;
+    font-weight: 500;
+}
